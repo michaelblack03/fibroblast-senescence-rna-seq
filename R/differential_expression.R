@@ -1,4 +1,4 @@
-#user note - run 2658500_BIOL5373_Functions.R to load functions into global environment before running this script!
+#user note - run Functions.R to load functions into global environment before running this script!
 
 #load packages
 library(ggplot2)
